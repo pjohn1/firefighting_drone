@@ -1,3 +1,9 @@
+# Overview
+
+This project has two main purposes:
+1. Test how powerful cursor is as an AI-aided IDE (i.e. can it set up an entire simulation for me so that I can just do the fun parts)
+2. Use my background in controls to implement sensor fusion and control for a drone that uses a remote observer and IR sensor to find "fires" and "put them out"
+
 # Firefighting Drone Simulation
 
 This ROS2 package provides a Gazebo simulation environment for a firefighting drone.
